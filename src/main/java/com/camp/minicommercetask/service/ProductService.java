@@ -15,7 +15,7 @@ public class ProductService {
      * @return 등록된 상품 정보
      */
     public ProductResponseDto createProduct(ProductRequestDto requestDto) {
-        // TODO: [Level 1] 요구사항을 만족하는 주문 로직을 구현하세요.
+        // TODO: [Level 1] 요구사항을 만족하는 상품 등록 로직을 구현하세요.
         return null;
     }
 
@@ -24,7 +24,7 @@ public class ProductService {
      * @return 등록된 모든 상품 목록
      */
     public List<ProductResponseDto> getProducts() {
-        // TODO: [Level 1] 요구사항을 만족하는 주문 로직을 구현하세요.
+        // TODO: [Level 1] 요구사항을 만족하는 전체 상품 조회 로직을 구현하세요.
         return null;
     }
 }
